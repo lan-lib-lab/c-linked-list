@@ -1,0 +1,26 @@
+# build output
+build/
+
+# atom-specific settings
+.atom*
+*.json
+
+# python generated files/folders
+__pycache__/
+
+# compiled python bytecode files
+*.pyc
+
+# clion settings
+.idea/
+
+# cache files for heavy computations
+.cache/
+
+# vim files
+*.swp
+*.swo
+tags
+
+# vscode files
+.vscode-ctags
